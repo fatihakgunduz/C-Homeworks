@@ -1,2 +1,1 @@
-# C-Homeworks
-School homeworks
+# C-Projects
